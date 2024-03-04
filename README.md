@@ -1,17 +1,7 @@
-- 👋 Hi, I’m @yuxialuozi
-- 👀 I comes from china
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java
-- 📫 How to reach me 3159452953@qq.com
+![Nitro_Wallpaper_02_3840x2400](https://github.com/yuxialuozi/yuxialuozi/assets/139631989/dd956d70-ddf3-42a1-89ba-53b236253f62)
 
-💬 Programming Languages: 
-Go                       57 mins             █████████████████████████   100.00 % 
 
-🔥 Editors: 
-GoLand                   57 mins             █████████████████████████   100.00 % 
 
-💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
 
 <!---
 yuxialuozi/yuxialuozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

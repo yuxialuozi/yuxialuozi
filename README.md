@@ -1,6 +1,6 @@
 # Self Introduction
 
-Hello there! I'm [Your Name], a passionate programmer deeply engaged in the world of open source. Welcome to my GitHub!
+Hello there! I'm [yuxialuozi], a passionate programmer deeply engaged in the world of open source. Welcome to my GitHub!
 
 ## Tech Stack
 

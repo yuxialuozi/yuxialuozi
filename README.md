@@ -2,13 +2,6 @@
 
 Hello there! I'm [yuxialuozi], a passionate programmer deeply engaged in the world of open source. Welcome to my GitHub!
 
-## Tech Stack
-
-- **Programming Languages:** [Java, Go]
-- **Frontend Development:** [Explored Vue and Astro]
-- **Backend Development:** [Java and Go]
-- **Databases:** [MySQL, PostgreSQL]
-
 ## Projects
 
 I thrive on challenging myself, and here are some projects I've either completed or currently working on:
